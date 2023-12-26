@@ -1,4 +1,5 @@
-## Jackpot Lottery Smart Contract
+## Piggy Bank Smart Contract
+
 
 # Description
 
