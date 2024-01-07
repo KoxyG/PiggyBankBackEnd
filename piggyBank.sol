@@ -31,7 +31,7 @@ contract PiggyBank {
     }
 
     function getBalance() external view returns(uint) {
-        return(address(this).balance);
+        return address(this).balance;
     }
 }
 
